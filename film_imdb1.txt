@@ -1,0 +1,26 @@
+,movie,year,imdb,metascore,votes,nilai_imdb
+0,The Tomorrow War,2021,6.7,45,75751,67
+1,F9,2021,5.5,58,28444,55
+2,Luca,2021,7.5,71,55477,75
+3,Fear Street,2021,6.2,67,19797,62
+4,The Ice Road,2021,5.5,42,13796,55
+5,No Sudden Move,2021,6.6,77,8478,66
+6,Black Widow,2021,7.1,68,42204,71
+7,In the Heights,2021,7.5,84,25175,75
+8,Cruella,2021,7.4,59,87992,74
+9,Good on Paper,2021,5.6,54,6053,56
+10,Raya and the Last Dragon,2021,7.4,75,92781,74
+11,Fatherhood,2021,6.7,53,20232,67
+12,Nobody,2021,7.4,64,118984,74
+13,Hitman's Wife's Bodyguard,2021,6.3,32,12917,63
+14,The Boss Baby: Family Business,2021,6.0,40,3613,60
+15,The Forever Purge,2021,5.9,54,2110,59
+16,The Conjuring: The Devil Made Me Do It,2021,6.3,53,62374,63
+17,America: The Motion Picture,2021,5.7,38,3046,57
+18,Wrath of Man,2021,7.2,57,71419,72
+19,Infinite,2021,5.4,28,17413,54
+20,False Positive,2021,4.6,54,2498,46
+21,Till Death,2021,5.8,66,3288,58
+22,The Little Things,2021,6.3,54,65815,63
+23,Gaia,2021,5.4,64,1515,54
+24,Army of the Dead,2021,5.8,57,125936,58
