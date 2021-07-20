@@ -60,8 +60,6 @@ film_imdb = pd.DataFrame({'movie': names,
 'metascore': metascores,
 'votes': votes
 })
-print(film_imdb.info())
-film_imdb.head(10)
 film_imdb  = film_imdb [['movie', 'year', 'imdb', 'metascore', 'votes']]
 film_imdb['year'].unique()
 film_imdb.loc[:, 'year'] = film_imdb['year'].str[-5:-1].astype(int)
@@ -80,7 +78,7 @@ def index():
 	card_data = f'{film_imdb1["metascore"].mean().round(2)}' #be careful with the " and ' 
 
 	# generate plot
-	ax = film_imdb1.plot(figsize = (20,9)) 
+	ax = film_imdb1.plot.bar(figsize = (20,9)) 
 	
 	# Rendering plot
 	# Do not change this
